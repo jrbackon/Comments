@@ -1,5 +1,5 @@
 # Comments
-A WIP program to cut and paste pieces of text to generate teacher comments based on a few prompts.
+A WIP script to cut and paste pieces of text to generate teacher comments based on a few prompts.
 
 Version 1.1
 Added the ability to pull data from google sheets to populate comment variables.
